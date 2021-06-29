@@ -4,4 +4,5 @@ export const environment = {
   state: 'development',
   access_token: 'e9f4be3f6a15e76741bd4b161a75fed3',
   forward_rewind_audio_duration: 3,
+  youtube_api_key: '',
 };
