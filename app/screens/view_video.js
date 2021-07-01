@@ -18,6 +18,7 @@ const ViewVideo = ({ route, navigation }) => {
         ref={playerRef}
         play={playing}
         videoId={videoId}
+        resumePlayAndroid={false}
       />
     </View>
   );
