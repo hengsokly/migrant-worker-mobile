@@ -88,7 +88,7 @@ class Welcome extends React.Component {
         return ToastAndroid.show("សូមភ្ជាប់បណ្តាញអ៊ិនធឺណេតជាមុនសិន!", ToastAndroid.SHORT);
       }
 
-      this.props.navigation.navigate('ViewVideoScreen', { videoId: getVideoId("https://www.youtube.com/watch?v=ttSsAGmpC_U") });
+      this.props.navigation.navigate('ViewVideoScreen', { videoId: getVideoId("https://www.youtube.com/watch?v=kQ-83Nt3EvU&t=14s") });
     });
   }
 
